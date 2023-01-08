@@ -63,11 +63,12 @@ True and False and True
 1 or 0 or 0
 ```
 Ans 19:
+```
 1
 0
 False
 1
-
+```
 Q20. What are conditional statements in Python?
 Ans 20 if ,do, elif
 
